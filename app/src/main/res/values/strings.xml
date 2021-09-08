@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BusinessCardApp</string>
+    <string name="label_business_cards">Cartões de Visita</string>
+    <string name="add_desc">Adiciona novo cartão de visita</string>
 </resources>
