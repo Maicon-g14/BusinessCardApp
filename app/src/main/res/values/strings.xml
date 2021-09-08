@@ -2,4 +2,12 @@
     <string name="app_name">BusinessCardApp</string>
     <string name="label_business_cards">Cartões de Visita</string>
     <string name="add_desc">Adiciona novo cartão de visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="close_button_desc">Fechar tela atual e retornar a tela anterior</string>
+    <string name="label_name">Nome</string>
+    <string name="label_tel">Telefone</string>
+    <string name="label_mail">E-mail</string>
+    <string name="label_business">Empresa</string>
+    <string name="label_color">Cor do cartão</string>
+    <string name="label_save">Salvar Cartão</string>
 </resources>
