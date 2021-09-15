@@ -8,7 +8,7 @@ data class BusinessCard (
     @PrimaryKey(autoGenerate = true) val id: Int = 0,
     val name: String,
     val business: String,
-    val tel: Number,
+    val tel: String,
     val mail: String,
     val color: String
 )
