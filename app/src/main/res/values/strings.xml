@@ -10,4 +10,6 @@
     <string name="label_business">Empresa</string>
     <string name="label_color">Cor do cartão</string>
     <string name="label_save">Salvar Cartão</string>
+    <string name="label_show_success">Cartão Salvo</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
